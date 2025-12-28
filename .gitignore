@@ -138,6 +138,10 @@ celerybeat.pid
 .venv
 .env
 .idea
+*.pyc
+seen_ads.txt
+
+
 .envrc
 env/
 venv/
